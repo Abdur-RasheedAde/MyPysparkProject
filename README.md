@@ -1,4 +1,4 @@
-# MyPysparkProject
+# MyPysparkProjects
 
 ##  Introduction
 This is an Apache Spark Project analysing The Google Playstore data using Pyspark in Databricks. The project runs all Pyspark codes and SQL codes in Databricks. 

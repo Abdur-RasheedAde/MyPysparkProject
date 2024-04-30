@@ -14,7 +14,7 @@ Additionally, it will also aid ongoing endeavors to understand the use of the cl
 ## Data Source:
 The data used in these project are in the repository file also;  
 * Project 1: Googleplaystore Sample Data [GoogleplaystoreData](https://github.com/Abdur-RasheedAde/MyPysparkProjects/blob/main/googleplaystore.csv)
-* Project 2: Sales Dataset [SalesTable](https://github.com/Abdur-RasheedAde/MyPysparkProjects/blob/main/sales.csv.txt)
+* Project 2: Sales Dataset [SalesTable](https://github.com/Abdur-RasheedAde/MyPysparkProjects/blob/main/sales.csv.txt)\
              Menu Dataset [MenuTable](https://github.com/Abdur-RasheedAde/MyPysparkProjects/blob/main/menu.csv.txt)
 
 

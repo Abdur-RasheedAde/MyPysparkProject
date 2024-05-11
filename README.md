@@ -20,10 +20,11 @@ The data used in these project are in the repository file also;
 ## DE Technical Skills:
 + Pyspark
 + Exploratory Data Analyis (EDA)
-+ SQL (JOINS, CTE ...)
++ SQL (JOINS, CTE, Temp Table, Views, Data Type Transformation, Aggregate/Windows Functions ...)
 + Databricks
 + Data Visualization - dashboard
 + Feedback and Continuous Improvement
++ Project Planning and Documentation
   
 ## Data Engineering Process
 1. Check the notebook of first project on Googleplaystore here [Get the code here](https://github.com/Abdur-RasheedAde/MyPysparkProjects/blob/main/Playstoreproject.ipynb) 

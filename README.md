@@ -30,14 +30,14 @@ The data used in these project are in the repository file also;
 2. Check the notebook of second project on Sales Analysis here [Get the code here](https://github.com/Abdur-RasheedAde/MyPysparkProjects/blob/main/Sales_Analysis%20with%20Pyspark.ipynb) 
 
 ## Data Visualization
-After all ETL process and data warehousing, some important metrics are visualized using the snowflake dashboard. This is a simple created dashboard with just 5 KPIs and can be accessed using the link below. However, this project was created using the free trial of snowflake and may not be accessible after 30 days of uplaod.
+The second Project is visualized with the Databricks dashboard platform and can be accessed here 👇
+[Click to view dashboard](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1343429096759292/3078158866193990/6632974093078969/latest.html)
 
-The dashbord image is here 👇
+The dashboard image is here 👇
 <img src="https://github.com/Abdur-RasheedAde/Snowflake_Projects/blob/main/Simple_Snowflake%20Dashboard.PNG" width=75% height=75%>  
-Link to the dashboard is here 👉 [Click to view dashboard](https://app.snowflake.com/xelrqqi/zeb17834/#/cricket_match_dashboard-dK2zKZJf9)
 
 ## Conclusions 
-1. Snowflake is one of the leading cloud big data platform as a service (PaaS) for Data supporting both Python and SQL.
+1. Databricks is one of the leading cloud big data platform as a service (PaaS) for big Data supporting both Python and SQL scripts.
 2. It is awesome for Data warehousing and ETL process and simple visualization dashboard.
 
-Thanks for taking time to go through this report! and I am open to collaborate with you on any Data Engineering projects exploring snowflake or other cloud big data platforms especially Azure, AWS, GCP and Databricks, you can always reach me on adeoyerasheed30@gmail.com Ciao 🤝
+Thanks for taking time to go through this report! and I am open to collaborate with you on any Data Engineering projects exploring databricks or other cloud big data platforms especially Azure, AWS, GCP and Sniwflake, you can always reach me on adeoyerasheed30@gmail.com Ciao 🤝

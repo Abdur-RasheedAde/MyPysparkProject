@@ -1,8 +1,8 @@
 # MyPysparkProjects
 
 ##  Introduction
-This is an Apache Spark Project analysing data using Pyspark in Databricks.
-The project runs all Pyspark codes and SQL codes in Databricks.
+These are my Apache Spark Projects data analysis using Pyspark in Databricks.
+The project run all Pyspark codes and SQL codes in Databricks.
 
 Project 1: The Google Playstore Analysis\
 Project 2: Sales Analysis
@@ -17,28 +17,27 @@ The data used in these project are in the repository file also;
 * Project 2: Sales Dataset [SalesTable](https://github.com/Abdur-RasheedAde/MyPysparkProjects/blob/main/sales.csv.txt)
                Menu Dataset [MenuTable](https://github.com/Abdur-RasheedAde/MyPysparkProjects/blob/main/menu.csv.txt)
 
-
-## Problem Statement
-This project is aimed at improving business performance of Haut supermarket and hence, answer the following questions;
-1. What is the monthly trend of Profit?
-2. What is the ratio of profit of the years under review?
-3. What is the profit ratio on quarterly basis?
-4. Which product category is the most and least profitable?
-5. Where does most sales comes from in terms of region?
-6. Does discount has an effect on Sales?
-7. What is the performance of the Africa market relative to other continent?
-8. Which country is most profitable?
-
-## Technical Skills:
-+ SQL
+## DE Technical Skills:
 + Pyspark
-+ Dashboard
-+ Visualization
-+ Report Design
-+ Data Visualization
-+ Business and Analytics Reporting
-+ Performance Optimization
-+ Deployment and Databricks
-+ Scalability
-+ Dashboard 
++ Exploratory Data Analyis (EDA)
++ SQL (JOINS, CTE ...)
++ Databricks
++ Data Visualization - dashboard
 + Feedback and Continuous Improvement
+  
+## Data Engineering Process
+1. Check the first Project Notebook here [Get the code here](https://github.com/Abdur-RasheedAde/Snowflake_Projects/blob/main/1.%20Schema_CREATION_and_Data_Injestion) 
+2. Check the Second Project Notebook here [Get the code here](https://github.com/Abdur-RasheedAde/Snowflake_Projects/blob/main/1.%20Schema_CREATION_and_Data_Injestion) 
+
+## Data Visualization
+After all ETL process and data warehousing, some important metrics are visualized using the snowflake dashboard. This is a simple created dashboard with just 5 KPIs and can be accessed using the link below. However, this project was created using the free trial of snowflake and may not be accessible after 30 days of uplaod.
+
+The dashbord image is here 👇
+<img src="https://github.com/Abdur-RasheedAde/Snowflake_Projects/blob/main/Simple_Snowflake%20Dashboard.PNG" width=75% height=75%>  
+Link to the dashboard is here 👉 [Click to view dashboard](https://app.snowflake.com/xelrqqi/zeb17834/#/cricket_match_dashboard-dK2zKZJf9)
+
+## Conclusions 
+1. Snowflake is one of the leading cloud big data platform as a service (PaaS) for Data supporting both Python and SQL.
+2. It is awesome for Data warehousing and ETL process and simple visualization dashboard.
+
+Thanks for taking time to go through this report! and I am open to collaborate with you on any Data Engineering projects exploring snowflake or other cloud big data platforms especially Azure, AWS, GCP and Databricks, you can always reach me on adeoyerasheed30@gmail.com Ciao 🤝

@@ -26,8 +26,8 @@ The data used in these project are in the repository file also;
 + Feedback and Continuous Improvement
   
 ## Data Engineering Process
-1. Check the first Project Notebook here [Get the code here](https://github.com/Abdur-RasheedAde/Snowflake_Projects/blob/main/1.%20Schema_CREATION_and_Data_Injestion) 
-2. Check the Second Project Notebook here [Get the code here](https://github.com/Abdur-RasheedAde/Snowflake_Projects/blob/main/1.%20Schema_CREATION_and_Data_Injestion) 
+1. Check the notebook of first project on Googleplaystore here [Get the code here](https://github.com/Abdur-RasheedAde/MyPysparkProjects/blob/main/Playstoreproject.ipynb) 
+2. Check the notebook of second project on Sales Analysis here [Get the code here](https://github.com/Abdur-RasheedAde/MyPysparkProjects/blob/main/Sales_Analysis%20with%20Pyspark.ipynb) 
 
 ## Data Visualization
 After all ETL process and data warehousing, some important metrics are visualized using the snowflake dashboard. This is a simple created dashboard with just 5 KPIs and can be accessed using the link below. However, this project was created using the free trial of snowflake and may not be accessible after 30 days of uplaod.
